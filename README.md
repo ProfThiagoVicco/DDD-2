@@ -24,6 +24,7 @@
 
 ### **1️⃣ Objetivo da Aula**
 Nesta aula, vamos:
+
 ✅ Explorar como **Bounded Contexts** se relacionam entre si.  
 ✅ Aplicar **Context Mapping** para visualizar dependências entre contextos.  
 ✅ Criar um **diagrama de Context Mapping** para um projeto.  
